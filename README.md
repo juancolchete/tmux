@@ -3,7 +3,7 @@ Main repo goal, arrive most productive setup using TMUX on linux
 
 ## Configure it global
 ```
-touch /etc/tmux.conf
+sudo touch /etc/tmux.conf
 ```
 ```
 sudo vim /etc/tmux.conf
